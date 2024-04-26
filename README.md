@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 
-**EtudiantFabre/EtudiantFabre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EtudiantFabre** est mon nom ✨ _special_ ✨ sur GitHub.
 
-Here are some ideas to get you started:
+Voici ce que je peux vous dire à propos de moi :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Je travaille actuelement à Knowbridge University
+- 🌱 J'apprends actuelement Flutter
+- 👯 Je suis prêt à colaborer sur tout projet
+- 🤔 Je suis prêt à vous aider sur les projets Laravel
+- 💬 Posez moi des questions sur Laravel et Django
+- 📫 Contact moi sur : +228 70839169
+- 😄 Pronom : Developpeurtaf
+- ⚡ Autre chose : https://www.youtube.com/@developpeurtaf
 

@@ -5,7 +5,6 @@
 
 Voici ce que je peux vous dire à propos de moi :
 
-- 🔭 Je travaille actuelement à Knowbridge University
 - 🌱 J'apprends actuelement Flutter
 - 👯 Je suis prêt à colaborer sur tout projet
 - 🤔 Je suis prêt à vous aider sur les projets Laravel

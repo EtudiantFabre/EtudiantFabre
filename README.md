@@ -11,5 +11,5 @@ Voici ce que je peux vous dire à propos de moi :
 - 💬 Posez moi des questions sur Laravel et Django
 - 📫 Contact moi sur : +228 70839169
 - 😄 Pronom : Developpeurtaf
-- ⚡ Autre chose : https://www.youtube.com/@developpeurtaf
+- ⚡ Autre chose : [www.youtube.com/@developpeurtaf](https://www.youtube.com/@developpeurtaf?sub_confirmation=1)
 

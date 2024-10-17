@@ -12,4 +12,5 @@ Voici ce que je peux vous dire à propos de moi :
 - 📫 Contact moi sur : +228 70839169
 - 😄 Pronom : Developpeurtaf
 - ⚡ Autre chose : [www.youtube.com/@developpeurtaf](https://www.youtube.com/@developpeurtaf?sub_confirmation=1)
+-  * Mon blog : [dev.to](https://dev.to/developpeurtaf)
 

@@ -14,3 +14,4 @@ Voici ce que je peux vous dire à propos de moi :
 - ⚡ Autre chose : [www.youtube.com/@developpeurtaf](https://www.youtube.com/@developpeurtaf?sub_confirmation=1)
 -  * Mon blog : [dev.to](https://dev.to/developpeurtaf)
 
+[![committers.top badge](https://user-badge.committers.top/togo/EtudiantFabre.svg)](https://user-badge.committers.top/togo/EtudiantFabre)
